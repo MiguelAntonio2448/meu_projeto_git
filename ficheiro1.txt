@@ -1,1 +1,3 @@
-Este é o exemplo de um ficheiro texto...aa
+Este é o exemplo de um ficheiro textoaaa...
+
+Estou a fazer alteracões ao ficheiro 
